@@ -1,6 +1,12 @@
 # CC-Assignment-191CS114
 
-CS466 - Cloud Computing assignment with the topic: "An Energy and Delay-Efficient Partial Offloading Technique for Fog Computing architectures"
+## Team:
+1) Bharath R (191CS112)
+2) Chethan Hebbar (191CS114)
+3) Shyam Sundar (191CS157)
+4) Karthik Chandra (191CS222)
+
+## CS466 - Cloud Computing assignment with the topic: "An Energy and Delay-Efficient Partial Offloading Technique for Fog Computing architectures"
 This paper gives us an algorithm about implementing the algorithm with the help of 4 parameters which are FN classification, LPFN selection, Local computation parameter , Partial offloading parameter.
 At first, all FNs are classified into two groups, High Power FNs (HPFN) and Low Power FNs (LPFN), using a quantile function that considers the distribution of the energy of all the FNs in the network. It is worth to be noticed that the FNs classification is performed at run time each time a new task should be executed; this ensures that the HPFN are always those FNs having the highest amount of energy.
 
@@ -20,3 +26,9 @@ The output of the following code is presented in the form of snippet below:
 ![Output-04](https://user-images.githubusercontent.com/61815830/230916798-935e72e2-cfaf-42b3-8587-b2bdb486ff6d.png)
 
 ![Output-05](https://user-images.githubusercontent.com/61815830/230916815-7b164737-1578-432c-a0a0-0f2767407c3f.png)
+
+## Research Paper:
+"An Energy and Delay-Efficient Partial Offloading
+Technique for Fog Computing architectures" -
+By Arash Bozorgchenani, Daniele Tarchi, Giovanni Emanuele Corazza
+Department of Electrical, Electronic and Information Engineering, University of Bologna, Italy
